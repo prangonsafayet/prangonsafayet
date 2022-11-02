@@ -1,7 +1,8 @@
-👋 Hi, I’m @prangonsafayet
-👀 I’m interested in Web Development and Rich media Development
-🌱 Can work with JS, ReactJS, MongoDB, NodeJS, MySQL 
-📫 You can reach me at prangonsafayet@gmail.com
+- 👋 Hi, I’m @prangonsafayet
+- 👀 I’m interested in Web Development and Rich media Development
+- 🌱 Can work with JS, ReactJS, MongoDB, NodeJS, MySQL 
+- 📫 You can reach me at prangonsafayet@gmail.com
+
 
 <!---
 prangonsafayet/prangonsafayet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
