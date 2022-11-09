@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prangonsafayet
 - 👀 I’m interested in Web Development and Rich media Development
-- 🌱 Can work with JS, ReactJS, MongoDB, NodeJS, MySQL 
+- 🌱 Can work with JS, Typescript, ReactJS, MongoDB, NodeJS, MySQL 
 - 📫 You can reach me at prangonsafayet@gmail.com
 
 
